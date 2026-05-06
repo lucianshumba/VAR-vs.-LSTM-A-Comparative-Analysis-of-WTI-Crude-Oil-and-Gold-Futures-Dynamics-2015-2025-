@@ -1,0 +1,2 @@
+# VAR-vs.-LSTM-A-Comparative-Analysis-of-WTI-Crude-Oil-and-Gold-Futures-Dynamics-2015-2025-
+Empirical comparison of VAR(11) and LSTM models for forecasting WTI Crude Oil &amp; Gold Futures log-returns (2015–2025). Includes stationarity testing, Granger causality analysis, impulse response functions, and 60-day out-of-sample evaluation. Both models achieve comparable RMSE/MAE; LSTM yields lower MAPE.
